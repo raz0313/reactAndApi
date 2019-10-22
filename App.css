@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.card-div {
+  border: 1px solid black;
+  float: left;
+  margin: 20px;
+  overflow: hidden;
+}
+.App-link {
+  color: #09d3ac;
+}
+
+.card-heder {
+  background-color: #333333;
+  color: white;
+  margin-top: 0%;
+}
+.tr-card {
+  margin-top: 10px;
+}
+.newCard {
+  background-color: black;
+  color: white;
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 20px;
+}
